@@ -1,7 +1,10 @@
 # mRNA Molecular Weight Calculator
 
+A lightweight browser-based **mRNA molecular weight calculator**  
+for synthetic RNA design and analysis. Ideal for researchers in  
+**RNA therapeutics**, **molecular biology** and **synthetic biology**.
 This web-based tool allows you to calculate key properties of messenger RNA (mRNA) sequences.  
-It supports custom sequences, optional Cap structures (e.g., CleanCap®), Ψ (N1-Methylpseudouridine) substitutions, and provides:
+It supports custom RNA sequences with optional 5'-Cap structures (e.g., CleanCap®), Ψ (N1-Methylpseudouridine) substitutions, and provides:
 
 - Molecular formula and exact mass (free acid / sodium salt forms)
 - Charge estimation
